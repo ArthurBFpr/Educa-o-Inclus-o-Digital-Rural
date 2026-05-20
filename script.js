@@ -38,7 +38,7 @@ const questions = [
             "Criar senhas fortes (com letras, números e símbolos) e não compartilhar",
             "Clicar em qualquer link que promete brindes e jogos grátis"
         ],
-        answer: 3
+        answer: 2
     },
     {
         question: "O que significa o conceito de Agricultura de Precisão?",
