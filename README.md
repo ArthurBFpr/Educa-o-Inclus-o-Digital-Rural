@@ -10,7 +10,7 @@
 * [Funcionalidades Principais](#-funcionalidades-principais)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 * [Como Acessar o Projeto](#-como-acessar-e-executar-o-projeto)
-* [Autores](#-autores)
+* [Autor](#-autor)
 
 ---
 
