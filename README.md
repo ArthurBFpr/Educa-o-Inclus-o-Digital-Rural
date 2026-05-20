@@ -50,7 +50,7 @@ O projeto foi desenvolvido de forma nativa e otimizada, utilizando apenas tecnol
 O projeto foi publicado utilizando o GitHub Pages, o que significa que você pode testá-lo imediatamente no seu navegador, sem precisar instalar nada!
 
 ### 🌐 Acesso Direto (Recomendado)
-👉 Clique no link a seguir para abrir a aplicação: **[CLIQUE AQUI PARA ACESSAR O EDUCAMPO](SEU_LINK_DO_GITHUB_PAGES_AQUI)**
+👉 Clique no link a seguir para abrir a aplicação: **[CLIQUE AQUI PARA ACESSAR O EDUCAMPO](https://arthurbfpr.github.io/Educa-o-Inclus-o-Digital-Rural/)**
 
 ---
 
