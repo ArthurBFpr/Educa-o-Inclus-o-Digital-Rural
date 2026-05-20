@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduCampo - Quiz Interativo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <div class="container">
+        <div id="start-screen" class="card">
+            <div class="logo">🌾</div>
+            <h1>EduCampo</h1>
+            <p>Bem-vindo ao jogo do conhecimento! Teste suas habilidades em tecnologia, sustentabilidade e inovação no campo.</p>
+            <button id="start-btn" class="btn">Iniciar Quiz</button>
+        </div>
+
+        <div id="quiz-screen" class="card hidden">
+            <div class="quiz-header">
+                <span id="progress">Pergunta 1 de 5</span>
+                <div id="score-board">Pontos: <span id="score">0</span></div>
+            </div>
+
+            <div class="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+
+            <h2 id="question-text">Texto da Pergunta aqui?</h2>
+
+            <div id="options-container" class="options-grid">
+                </div>
+
+            <button id="next-btn" class="btn hidden">Próxima Pergunta</button>
+        </div>
+
+        <div id="result-screen" class="card hidden">
+            <div class="logo">🏆</div>
+            <h1>Parabéns!</h1>
+            <p>Você concluiu o quiz do EduCampo.</p>
+            
+            <div class="final-score">
+                Pontuação Final: <span id="final-points">0</span> pontos
+            </div>
+
+            <div class="badge-container">
+                <h3>Sua Medalha:</h3>
+                <div id="badge-icon">🥇</div>
+                <p id="badge-name">Mestre do Campo</p>
+            </div>
+
+            <button id="restart-btn" class="btn">Jogar Novamente</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
